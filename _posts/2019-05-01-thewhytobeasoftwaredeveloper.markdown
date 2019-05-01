@@ -1,7 +1,7 @@
 ---
 layout: post
-title:      "TheWhyToBeASoftwareDeveloper?"
-date:       2019-05-01 20:50:42 +0000
+title:      "The Why To Be A Software Developer?"
+date:       2019-05-01 16:50:44 -0400
 permalink:  thewhytobeasoftwaredeveloper
 ---
 
