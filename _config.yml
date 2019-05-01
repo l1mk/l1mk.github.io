@@ -1,11 +1,11 @@
 # Site settings
-author: juan siu
-title: 
+author: Juan Siu
+title: Hello World
 header-img: img/home-bg.png
 email: juan.siu@gmail.com
-copyright_name: juan siu
+copyright_name: Juan Siu
 description: > # this means to ignore newlines until "baseurl:"
-  
+  A journey to the unknown
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  l1mk
